@@ -1,12 +1,12 @@
 <div align="center">
 
-# `{ anonymous }` — dev en formation
+# `{ Laloix23 }` — dev en formation
 
 *Passionné de code · Apprentissage permanent · Profil discret*
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=anonymous.anonymous)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Laloix23)
 ![Status](https://img.shields.io/badge/status-disponible-4CAF50?style=flat-square)
 ![Focus](https://img.shields.io/badge/focus-apprentissage-58a6ff?style=flat-square)
 
@@ -60,9 +60,9 @@ Contact   → via GitHub uniquement
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laloix23&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laloix23&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
@@ -72,7 +72,7 @@ Contact   → via GitHub uniquement
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TON_PSEUDO&theme=github-compact&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Laloix23&theme=github-compact&hide_border=true)
 
 </div>
 
